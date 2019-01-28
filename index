@@ -21,12 +21,14 @@ The Project goal is to provide public awareness of why plants and trees are impo
 Technical Summary: You are required to explain (1) system architecture, (2) the main functions of your web map using either a screenshot of the web map or a code snippet of the function, and a concomitant description.
 
 (1)  the system architecture will probably be similair to our labs: 
-Master>contains index.html file
-the following branches: 
-> assets (for map files)
-> js (for javascript source code)
-> css (for style sheets)
->img  (for image files)
+
+ BurkR.github.io/
+   trees
+     master
+      │  index.html
+      ├─css
+      ├─img
+      └─js
 
 (2) The main functions of the web map will hopefully have clickable links on each point with information about the point, tree, plant, or feature. 
 
