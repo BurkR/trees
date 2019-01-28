@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+Final Project Proposal
 
-You can use the [editor on GitHub](https://github.com/BurkR/trees/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Project title: I have not chosen a title yet.  The overall theme will be historical in nature. 
 
-### Markdown
+Project description: The project will have a historical theme related to my thesis topic of Culturally Significant Plants and Trees. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Project goal (such as, what is the message you want to deliver through the map?).  The goal of this project is to provide public awareness of how plants and trees are important indicators of historical events. 
 
-```markdown
-Syntax highlighted code block
+Technical Summary: You are required to explain (1) system architecture, (2) the main functions of your web map using either a screenshot of the web map or a code snippet of the function, and a concomitant description.
 
-# Header 1
-## Header 2
-### Header 3
+(1)  I'm not sure about the system architecture right now.  It will probably be similair to our labs: 
+Master
+> assets (for map files)
+> js (for javascript source code
+> css (for style sheets
+>img  (for image files)
 
-- Bulleted
-- List
+(2) The main functions of the web map will hopefully be clickable links on each point with information about the point, tree, plant, or feature. 
 
-1. Numbered
-2. List
+Data sources will include leaflet, github and other web mapping sources. 
+Libraries (e.g., Leaflet) and Web Services (e.g., github, basemap) in use
 
-**Bold** and _Italic_ and `Code` text
+Credit and Acknowledgements will be cited at the end of the story map.  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BurkR/trees/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
